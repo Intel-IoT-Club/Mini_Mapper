@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">640159568985</string>
+    <string name="google_api_key" translatable="false">AIzaSyCd4gMZrPedVJCmeh_l_cN0hQayK-5ftDU</string>
+    <string name="google_app_id" translatable="false">1:640159568985:android:c34c32eaa8a57fa334cd48</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCd4gMZrPedVJCmeh_l_cN0hQayK-5ftDU</string>
+    <string name="google_storage_bucket" translatable="false">live-tracking-b76c0.firebasestorage.app</string>
+    <string name="project_id" translatable="false">live-tracking-b76c0</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
